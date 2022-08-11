@@ -1,11 +1,10 @@
 # COMPETITION NAME: DATA FIESTA 3.0
-TEAM NAME: SAGITTARIUS
-FILE NAME: MSIT_SAGITTARIUS
-COLLEGE: MAHARAJ SURAJMAL INSTITUTE OF TECHNOLOGY
+* TEAM NAME: SAGITTARIUS
+* FILE NAME: MSIT_SAGITTARIUS
+* COLLEGE: MAHARAJ SURAJMAL INSTITUTE OF TECHNOLOGY
+* Team members: Tushita Singh( Team Leader) , N Sudha Sushma, Utkarsh Chauhan
 
-# Team members:
-Tushita Singh, N Sudha Sushma, Utkarsh Chauhan
-
+# Problem statement
 ABC Inc. is a Custom products distributor with majority in cosmetics products selling to
 different types of stores across the U.S but also internationally. They are interested in
 getting a better understanding of their Sales, AUR, COGS and Margin performance across
@@ -13,6 +12,7 @@ their business.
 For this problem they have approached Polestar. As a consultant at Polestar, we have to use as many tools at our disposal to get the best 10 insights
 We have used Tableau and created dashboards for the same.
 
+# Insights
 The top 10 insights drawn out by us have been wrtten below.
 
 ANALYSIS FOR THE COMPETITION:
