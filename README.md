@@ -15,8 +15,6 @@ We have used Tableau and created dashboards for the same.
 # Insights
 The top 10 insights drawn out by us have been wrtten below.
 
-ANALYSIS FOR THE COMPETITION:
-
 1. We can analyze which are the top N SKUs by Units. i.e. Net Sales. Top 5 SKU by units i.e. the most sold products are WATER-CREAM, SILK CANVAS, SEPH-BOTF-2018, SKIN-MIST, PC-OIL. 
 2. We can analyze which are the top N SKUs by Volume i.e. Total Revenue. Top 5 SKU by Volume i.e. the products that generate the greatest revenue are: WATER-CREAM, SILK CANVAS, ESSENCE, SKIN-MIST, CHANNEL 3-TSV-JUNE-2018-A305748. 
 3. Total Units i.e. Net Sales and Total Volume i.e. Total Revenue for all the SKUs per month for each year can be analyzed. Net Sales for January 2017, 2018, and 2019 are 2.001M, 3.499M, and 4.562M respectively. Similarly, the Total revenue for January 2017, 2018, and 2019 are 89.204M, 168.720M, and 229.921M respectively. 
